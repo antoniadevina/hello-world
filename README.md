@@ -30,3 +30,6 @@ additional comment: so how is this?
 why is this fine not updated?? git status say this origin is already equal to master 
 
 so git status doesnt tell u if the head has been updated? 
+
+hello trying to add and merge branch 1 now 
+
