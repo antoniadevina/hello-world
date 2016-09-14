@@ -18,6 +18,7 @@ change 4.1 hehe
 this was from clone 2 
 // and then // 
 change 4
+
 cool right? 
 
 and this one is from clone 1
@@ -26,3 +27,6 @@ change10.1
 
 additional comment: so how is this? 
 
+why is this fine not updated?? git status say this origin is already equal to master 
+
+so git status doesnt tell u if the head has been updated? 
